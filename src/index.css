@@ -1,0 +1,167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.bg-image-1 {
+    background-image: url('./assets/images/bg (1).jpg');
+  }
+  
+  .bg-image-2 {
+    background-image: url('./assets/images/bg (2).jpg');
+  }
+  
+  .bg-image-3 {
+    background-image: url('./assets/images/bg (3).jpg');
+  }
+  
+  /* Add similar classes for other images */
+  .bg-image-4 {
+    background-image: url('./assets/images/bg (4).jpg');
+  }
+  
+  .bg-image-5 {
+    background-image: url('./assets/images/bg (5).jpg');
+  }
+  
+  .bg-image-6 {
+    background-image: url('./assets/images/bg (6).jpg');
+  }
+  
+  .bg-image-7 {
+    background-image: url('./assets/images/bg (7).jpg');
+  }
+  
+  .bg-image-8 {
+    background-image: url('./assets/images/bg (8).jpg');
+  }
+  
+  .bg-image-9 {
+    background-image: url('./assets/images/bg (9).jpg');
+  }
+  
+  .bg-image-10 {
+    background-image: url('./assets/images/bg (10).jpg');
+  }
+  
+  .bg-image-11 {
+    background-image: url('./assets/images/bg (11).jpg');
+  }
+  
+  .bg-image-13 {
+    background-image: url('./assets/images/bg (13).jpg');
+  }
+  
+  .bg-image-14 {
+    background-image: url('./assets/images/bg (14).jpg');
+  }
+  
+  .bg-image-15 {
+    background-image: url('./assets/images/bg (15).jpg');
+  }
+  
+  .bg-image-16 {
+    background-image: url('./assets/images/bg (16).jpg');
+  }
+  
+
+  body::-webkit-scrollbar{
+    display: none;
+  }
+
+  @font-face {
+    font-family: "creato";
+    src: url(./assets/CreatoDisplay-Regular.otf);
+  }
+
+  *{
+    font-family: creato;
+    letter-spacing: 0.5px;
+  }
+
+/* 
+  @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* Custom Background Image Classes */
+.mbg-image-1 {
+    background-image: url('./assets/images/mbg (1).jpg');
+}
+
+.mbg-image-2 {
+    background-image: url('./assets/images/mbg (2).jpg');
+}
+
+.mbg-image-3 {
+    background-image: url('./assets/images/mbg (3).jpg');
+}
+
+.mbg-image-4 {
+    background-image: url('./assets/images/mbg (4).jpg');
+}
+
+.mbg-image-5 {
+    background-image: url('./assets/images/mbg (5).jpg');
+}
+
+.mbg-image-6 {
+    background-image: url('./assets/images/mbg (6).jpg');
+}
+
+.mbg-image-7 {
+    background-image: url('./assets/images/mbg (7).jpg');
+}
+
+.mbg-image-8 {
+    background-image: url('./assets/images/mbg (8).jpg');
+}
+
+.mbg-image-9 {
+    background-image: url('./assets/images/mbg (9).jpg');
+}
+
+.mbg-image-10 {
+    background-image: url('./assets/images/mbg (10).jpg');
+}
+
+.mbg-image-11 {
+    background-image: url('./assets/images/mbg (11).jpg');
+}
+
+.mbg-image-12 {
+    background-image: url('./assets/images/mbg (12).jpg');
+}
+
+.mbg-image-13 {
+    background-image: url('./assets/images/mbg (13).jpg');
+}
+
+.mbg-image-14 {
+    background-image: url('./assets/images/mbg (14).jpg');
+}
+
+.mbg-image-15 {
+    background-image: url('./assets/images/mbg (15).jpg');
+}
+
+.mbg-image-16 {
+    background-image: url('./assets/images/mbg (16).jpg');
+}
+
+.mbg-image-17 {
+    background-image: url('./assets/images/mbg (17).jpg');
+}
+
+.mbg-image-18 {
+    background-image: url('./assets/images/mbg (18).jpg');
+}
+
+.mbg-image-19 {
+    background-image: url('./assets/images/mbg (19).jpg');
+}
+
+/* Hide scrollbar */
+body::-webkit-scrollbar {
+    display: none;
+}
